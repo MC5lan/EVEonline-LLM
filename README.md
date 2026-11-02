@@ -35,6 +35,8 @@
 
 完整复盘：[docs/WHY-IT-FAILED.md](docs/WHY-IT-FAILED.md)
 
+全部 62 条决策记录：[docs/DECISIONS.md](docs/DECISIONS.md)
+
 ---
 
 ## 关于「这是 AI 写出来的」

@@ -40,6 +40,8 @@ It can phrase "shield capacity 3200 HP" fluently, but it has no idea what that m
 
 Full postmortem: [docs/WHY-IT-FAILED.md](docs/WHY-IT-FAILED.md) (Chinese)
 
+All 62 decisions: [docs/DECISIONS.md](docs/DECISIONS.md) (Chinese)
+
 ---
 
 ## About "this was written by an AI"
@@ -270,4 +272,5 @@ Two "improvements" that made things worse were caught by the eval:
 - [docs/PITFALLS.md](docs/PITFALLS.md) — 18 pitfalls, symptom → cause → fix
 - [docs/EVAL.md](docs/EVAL.md) — all metrics and how to reproduce
 - [docs/WHY-IT-FAILED.md](docs/WHY-IT-FAILED.md) — the postmortem
+- [docs/DECISIONS.md](docs/DECISIONS.md) — all 62 decisions with post-hoc ratings
 - [docs/ROADMAP.md](docs/ROADMAP.md) — open questions
