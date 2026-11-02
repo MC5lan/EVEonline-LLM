@@ -248,6 +248,42 @@ tools/              corpus builder, SDE export, fit parser, eval generator
 
 ---
 
+---
+
+## All 62 decisions (index)
+
+Every choice from corpus cleaning to delivery. Full version (alternatives / rationale / outcome)
+in [docs/DECISIONS.md](docs/DECISIONS.md) — Chinese only.
+
+| Phase | Decisions | ✅ | ⚠️ | ❌ |
+|---|---:|---:|---:|---:|
+| 1. Corpus | D01–D07 | 5 | 2 | 0 |
+| 2. Structured data | D08–D11 | 4 | 0 | 0 |
+| 3. Tokenizer | D12–D14 | 2 | 1 | 0 |
+| 4. Architecture | D15–D20 | 4 | 1 | 1 |
+| 5. Training | D21–D25 | 4 | 1 | 0 |
+| 6. SFT | D26–D33 | 3 | 2 | 3 |
+| 7. Guards & routing | D34–D43 | 6 | 4 | 0 |
+| 8. Retrieval | D44–D48 | 3 | 1 | 1 |
+| 9. Evaluation | D49–D55 | 3 | 0 | 1 |
+| 10. Delivery | D56–D62 | 4 | 2 | 0 |
+| **Total** | **62** | **43** | **14** | **5** |
+
+### The five wrong calls
+
+| # | Decision | What happened |
+|---|---|---|
+| D15 | Train from scratch | Goal achieved; the goal itself was the mistake |
+| D28 | Label shift in SFT | Loss 0.002, output 长尾长尾长尾 — found and fixed |
+| D31 | Teach the model to refuse | 3,341 missing-field samples (30%); still refuses nothing. Moved to code |
+| D47 | Add a reranker | recall@1 81.7% → 78.0%, +500 ms. Rejected |
+| D49 | 200-question eval | Written from the system's own capabilities → 100% self-deception |
+
+These map exactly onto the three failure layers:
+**wrong objective, invalid verification, overestimated capability.**
+
+---
+
 ## 8. Eval history
 
 ```
