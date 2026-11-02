@@ -1,0 +1,29 @@
+# ---- 模型权重与检索产物（体积大，可用脚本重新生成）----
+ckpt/
+index/
+models/
+refs/
+data/sde/
+
+# ---- 训练用二进制分片 ----
+data/*.bin
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# ---- 编辑器 / 系统 ----
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# ---- 临时产物 ----
+*.log
+*.tmp
+tmp/
+scratch/

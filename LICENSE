@@ -1,0 +1,38 @@
+MIT License
+
+Copyright (c) 2026 EVE-LM contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## 第三方组件与数据声明
+
+本项目代码以 MIT 许可证发布，但仓库中引用的部分数据与第三方组件遵循其自身条款：
+
+| 内容 | 来源 | 许可 |
+|---|---|---|
+| SDE 数据（`data/sde_facts.jsonl`、`data/sde_cards.jsonl`） | CCP Games 官方 Static Data Export | CCP 的数据使用条款 |
+| 装配求解逻辑 | 参考 Pyfa（eos 引擎）的行为实现 | LGPL-2.1（本仓库未包含 Pyfa 源码） |
+| 中文语料（`canonical/`） | 公开社区资料，已重写整理 | 见各文档 `meta.yaml` 的 origin 字段 |
+| bge-small-zh-v1.5 / bge-reranker-base | BAAI | MIT / Apache-2.0 |
+
+**EVE Online 是 CCP hf. 的商标。本项目为非官方的社区项目，与 CCP 无关联。**
+
+如果你要商用本仓库中的语料，请自行核实原始来源的授权。
