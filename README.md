@@ -4,6 +4,8 @@
 [![Python](https://img.shields.io/badge/python-3.12-blue.svg)](requirements.txt)
 [![Status](https://img.shields.io/badge/status-failed-red.svg)](#为什么说它失败了)
 
+**中文** · [English](README.en.md)
+
 仓库：<https://github.com/MC5lan/EVEonlie-LLM>
 
 ---
