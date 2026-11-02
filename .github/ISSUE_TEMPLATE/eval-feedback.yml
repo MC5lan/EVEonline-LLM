@@ -1,0 +1,47 @@
+name: 评测反馈
+description: 系统答错了 / 答得不好（最有价值的反馈）
+labels: ["eval"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        这是最有用的一类反馈。现有 200 题评测是**按数据结构生成的**，
+        覆盖不到真实问法，所以真实提问里的失败案例特别珍贵。
+
+  - type: textarea
+    id: question
+    attributes:
+      label: 你问的问题
+      description: 原样贴出来，包括口语化的部分
+      placeholder: 我想配一条能刷四级深渊的船，推荐什么
+    validations:
+      required: true
+
+  - type: textarea
+    id: answer
+    attributes:
+      label: 系统的回答
+    validations:
+      required: true
+
+  - type: textarea
+    id: correct
+    attributes:
+      label: 正确答案应该是什么
+      description: 如果你知道的话。不确定也没关系，写「不知道」即可。
+    validations:
+      required: false
+
+  - type: dropdown
+    id: kind
+    attributes:
+      label: 问题类型
+      options:
+        - 事实错误（数字 / 属性不对）
+        - 答非所问
+        - 该拒答却作答（编造）
+        - 该答却拒答
+        - 检索到了但没用上
+        - 其它
+    validations:
+      required: true

@@ -1,0 +1,54 @@
+name: Bug 报告
+description: 结果不符合预期、报错、崩溃
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        提交前请先看 `docs/PITFALLS.md`，很多问题已经在里面记录了。
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: 涉及部分
+      options:
+        - 模型训练 / SFT
+        - 检索（召回不准）
+        - 回答内容（答错 / 答非所问）
+        - 装配求解
+        - 服务 / 前端
+        - 其它
+    validations:
+      required: true
+
+  - type: textarea
+    id: repro
+    attributes:
+      label: 复现方式
+      description: 越具体越好。问答类问题请给出完整问句。
+      placeholder: |
+        1. 运行 python -m rag.local_model --query "..."
+        2. 期望得到 ...
+        3. 实际得到 ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: expect
+    attributes:
+      label: 期望 vs 实际
+    validations:
+      required: true
+
+  - type: input
+    id: env
+    attributes:
+      label: 环境
+      placeholder: Windows 11 / Python 3.12 / torch 2.10+cu126 / 4GB 显存
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: 自查
+      options:
+        - label: 我看过 docs/PITFALLS.md，里面没有这个问题的记录

@@ -1,0 +1,26 @@
+body:
+  - type: markdown
+    attributes:
+      value: |
+        提问前建议先搜索一下现有讨论。踩坑类问题请优先看 `docs/PITFALLS.md`。
+
+  - type: textarea
+    id: question
+    attributes:
+      label: 你的问题
+      description: 想解决什么问题？卡在哪一步？
+    validations:
+      required: true
+
+  - type: textarea
+    id: tried
+    attributes:
+      label: 已经试过什么
+      description: 试过但没用的方案，比「我试过了」有用得多。
+
+  - type: input
+    id: env
+    attributes:
+      label: 环境（如果和运行环境有关）
+      placeholder: Windows 11 / Python 3.12 / 4GB 显存
+labels: ["question"]

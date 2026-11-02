@@ -1,0 +1,35 @@
+body:
+  - type: markdown
+    attributes:
+      value: |
+        踩坑记录按「现象 → 原因 → 修法」写。写清楚的坑会进 `docs/PITFALLS.md`。
+
+  - type: input
+    id: symptom
+    attributes:
+      label: 现象
+      description: 一句话说清你看到了什么
+      placeholder: 训练 loss 掉到 0.002，但生成全是重复词
+    validations:
+      required: true
+
+  - type: textarea
+    id: cause
+    attributes:
+      label: 原因
+      description: 当时是怎么定位到的？谁误导了你？
+    validations:
+      required: true
+
+  - type: textarea
+    id: fix
+    attributes:
+      label: 修法
+    validations:
+      required: true
+
+  - type: input
+    id: env
+    attributes:
+      label: 环境
+labels: ["pitfall"]
