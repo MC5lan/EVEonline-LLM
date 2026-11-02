@@ -1,5 +1,10 @@
 # EVE-LM：一个跑在 4GB 笔记本显卡上的 EVE Online 中文助手
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/python-3.12-blue.svg)](requirements.txt)
+
+仓库：<https://github.com/MC5lan/EVEonlie-LLM>
+
 从零训练的语言模型 + 结构化数据 + 确定性护栏，组成一个**资料检索器**。
 
 硬件约束：RTX 3050 Laptop，4 GB 显存。

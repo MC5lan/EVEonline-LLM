@@ -10,7 +10,7 @@
 | 「我也在小显存上训模型，遇到 X」 | [Discussions · 踩坑交流](../../discussions/categories/踩坑交流) |
 | 「这里的评测方法有问题」 | [Discussions · 评测讨论](../../discussions/categories/评测讨论) |
 | 「我想加一个新功能」 | [Discussions · 想法](../../discussions/categories/想法) |
-| 「这段代码在 Windows 上跑不通」 | [Issues · Bug](https://github.com/OWNER/REPO/issues/new?template=bug.yml) |
+| 「这段代码在 Windows 上跑不通」 | [Issues · Bug](https://github.com/MC5lan/EVEonlie-LLM/issues/new?template=bug.yml) |
 
 ## 欢迎的贡献
 
