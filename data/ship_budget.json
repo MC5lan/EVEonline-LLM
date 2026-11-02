@@ -1,0 +1,1595 @@
+{
+ "Purifier": {
+  "pg": 5148.0,
+  "cpu": 490.0,
+  "n": 7,
+  "base_pg": 56.2,
+  "base_cpu": 381.2,
+  "pg_mult": 91.6,
+  "cpu_mult": 1.29
+ },
+ "Barghest": {
+  "pg": 13758.0,
+  "cpu": 932.0,
+  "n": 4,
+  "base_pg": 14500.0,
+  "base_cpu": 912.5,
+  "pg_mult": 0.95,
+  "cpu_mult": 1.02
+ },
+ "Providence": {
+  "pg": 0.0,
+  "cpu": 0.0,
+  "n": 1,
+  "base_pg": 3.8,
+  "base_cpu": 1.2,
+  "pg_mult": 0.0,
+  "cpu_mult": 0.0
+ },
+ "Bifrost": {
+  "pg": 412.0,
+  "cpu": 355.5,
+  "n": 4,
+  "base_pg": 72.5,
+  "base_cpu": 312.5,
+  "pg_mult": 5.68,
+  "cpu_mult": 1.14
+ },
+ "Rokh": {
+  "pg": 20222.0,
+  "cpu": 1028.0,
+  "n": 1,
+  "base_pg": 18750.0,
+  "base_cpu": 1012.5,
+  "pg_mult": 1.08,
+  "cpu_mult": 1.02
+ },
+ "Vulture": {
+  "pg": 1667.0,
+  "cpu": 637.5,
+  "n": 4,
+  "base_pg": 1593.8,
+  "base_cpu": 681.2,
+  "pg_mult": 1.05,
+  "cpu_mult": 0.94
+ },
+ "Gnosis": {
+  "pg": 1333.0,
+  "cpu": 483.0,
+  "n": 3,
+  "base_pg": 1500.0,
+  "base_cpu": 555.0,
+  "pg_mult": 0.89,
+  "cpu_mult": 0.87
+ },
+ "Monitor": {
+  "pg": 222.0,
+  "cpu": 309.0,
+  "n": 1,
+  "base_pg": 3.8,
+  "base_cpu": 1.2,
+  "pg_mult": 58.42,
+  "cpu_mult": 257.5
+ },
+ "Naglfar Fleet Issue": {
+  "pg": 687009.0,
+  "cpu": 1076.0,
+  "n": 2,
+  "base_pg": 800000.0,
+  "base_cpu": 1125.0,
+  "pg_mult": 0.86,
+  "cpu_mult": 0.96
+ },
+ "Proteus": {
+  "pg": 1160.0,
+  "cpu": 531.0,
+  "n": 5,
+  "base_pg": 850.0,
+  "base_cpu": 287.5,
+  "pg_mult": 1.36,
+  "cpu_mult": 1.85
+ },
+ "Wyvern": {
+  "pg": 649728.0,
+  "cpu": 1016.0,
+  "n": 4,
+  "base_pg": 687500.0,
+  "base_cpu": 1218.8,
+  "pg_mult": 0.95,
+  "cpu_mult": 0.83
+ },
+ "Hel": {
+  "pg": 615713.5,
+  "cpu": 968.0,
+  "n": 4,
+  "base_pg": 812500.0,
+  "base_cpu": 1187.5,
+  "pg_mult": 0.76,
+  "cpu_mult": 0.82
+ },
+ "Gila": {
+  "pg": 748.5,
+  "cpu": 456.5,
+  "n": 2,
+  "base_pg": 837.5,
+  "base_cpu": 475.0,
+  "pg_mult": 0.89,
+  "cpu_mult": 0.96
+ },
+ "Rorqual": {
+  "pg": 710076.0,
+  "cpu": 1265.0,
+  "n": 3,
+  "base_pg": 525000.0,
+  "base_cpu": 1500.0,
+  "pg_mult": 1.35,
+  "cpu_mult": 0.84
+ },
+ "Svipul": {
+  "pg": 92.0,
+  "cpu": 267.0,
+  "n": 3,
+  "base_pg": 67.5,
+  "base_cpu": 256.2,
+  "pg_mult": 1.36,
+  "cpu_mult": 1.04
+ },
+ "Cyclone Fleet Issue": {
+  "pg": 1431.5,
+  "cpu": 710.0,
+  "n": 2,
+  "base_pg": 1375.0,
+  "base_cpu": 750.0,
+  "pg_mult": 1.04,
+  "cpu_mult": 0.95
+ },
+ "Devoter": {
+  "pg": 1485.0,
+  "cpu": 520.5,
+  "n": 2,
+  "base_pg": 1581.2,
+  "base_cpu": 460.0,
+  "pg_mult": 0.94,
+  "cpu_mult": 1.13
+ },
+ "Drake": {
+  "pg": 1212.0,
+  "cpu": 663.0,
+  "n": 1,
+  "base_pg": 1037.5,
+  "base_cpu": 625.0,
+  "pg_mult": 1.17,
+  "cpu_mult": 1.06
+ },
+ "Ferox": {
+  "pg": 1783.5,
+  "cpu": 656.5,
+  "n": 2,
+  "base_pg": 1437.5,
+  "base_cpu": 643.8,
+  "pg_mult": 1.24,
+  "cpu_mult": 1.02
+ },
+ "Osprey": {
+  "pg": 884.0,
+  "cpu": 527.0,
+  "n": 3,
+  "base_pg": 587.5,
+  "base_cpu": 475.0,
+  "pg_mult": 1.5,
+  "cpu_mult": 1.11
+ },
+ "Heretic": {
+  "pg": 68.5,
+  "cpu": 396.0,
+  "n": 4,
+  "base_pg": 87.5,
+  "base_cpu": 337.5,
+  "pg_mult": 0.78,
+  "cpu_mult": 1.17
+ },
+ "Stork": {
+  "pg": 74.0,
+  "cpu": 283.0,
+  "n": 3,
+  "base_pg": 78.8,
+  "base_cpu": 350.0,
+  "pg_mult": 0.94,
+  "cpu_mult": 0.81
+ },
+ "Scalpel": {
+  "pg": 58.5,
+  "cpu": 246.0,
+  "n": 2,
+  "base_pg": 52.5,
+  "base_cpu": 250.0,
+  "pg_mult": 1.11,
+  "cpu_mult": 0.98
+ },
+ "Kirin": {
+  "pg": 59.5,
+  "cpu": 269.5,
+  "n": 2,
+  "base_pg": 52.5,
+  "base_cpu": 268.8,
+  "pg_mult": 1.13,
+  "cpu_mult": 1.0
+ },
+ "Sentinel": {
+  "pg": 71.0,
+  "cpu": 220.5,
+  "n": 2,
+  "base_pg": 50.0,
+  "base_cpu": 243.8,
+  "pg_mult": 1.42,
+  "cpu_mult": 0.9
+ },
+ "Hyena": {
+  "pg": 47.5,
+  "cpu": 180.5,
+  "n": 6,
+  "base_pg": 45.0,
+  "base_cpu": 181.2,
+  "pg_mult": 1.06,
+  "cpu_mult": 1.0
+ },
+ "Kikimora": {
+  "pg": 77.0,
+  "cpu": 223.0,
+  "n": 2,
+  "base_pg": 68.8,
+  "base_cpu": 217.5,
+  "pg_mult": 1.12,
+  "cpu_mult": 1.03
+ },
+ "Stiletto": {
+  "pg": 44.0,
+  "cpu": 146.0,
+  "n": 1,
+  "base_pg": 37.5,
+  "base_cpu": 187.5,
+  "pg_mult": 1.17,
+  "cpu_mult": 0.78
+ },
+ "Deimos": {
+  "pg": 1653.0,
+  "cpu": 514.0,
+  "n": 1,
+  "base_pg": 1375.0,
+  "base_cpu": 475.0,
+  "pg_mult": 1.2,
+  "cpu_mult": 1.08
+ },
+ "Onyx": {
+  "pg": 975.0,
+  "cpu": 549.0,
+  "n": 1,
+  "base_pg": 1125.0,
+  "base_cpu": 700.0,
+  "pg_mult": 0.87,
+  "cpu_mult": 0.78
+ },
+ "Burst": {
+  "pg": 54.0,
+  "cpu": 173.0,
+  "n": 1,
+  "base_pg": 50.0,
+  "base_cpu": 237.5,
+  "pg_mult": 1.08,
+  "cpu_mult": 0.73
+ },
+ "Vigil": {
+  "pg": 42.0,
+  "cpu": 150.0,
+  "n": 3,
+  "base_pg": 32.5,
+  "base_cpu": 281.2,
+  "pg_mult": 1.29,
+  "cpu_mult": 0.53
+ },
+ "Scythe": {
+  "pg": 412.5,
+  "cpu": 355.0,
+  "n": 2,
+  "base_pg": 468.8,
+  "base_cpu": 375.0,
+  "pg_mult": 0.88,
+  "cpu_mult": 0.95
+ },
+ "Epithal": {
+  "pg": 86.5,
+  "cpu": 96.5,
+  "n": 2,
+  "base_pg": 162.5,
+  "base_cpu": 337.5,
+  "pg_mult": 0.53,
+  "cpu_mult": 0.29
+ },
+ "Magnate Navy Issue": {
+  "pg": 62.0,
+  "cpu": 471.0,
+  "n": 3,
+  "base_pg": 61.2,
+  "base_cpu": 243.8,
+  "pg_mult": 1.01,
+  "cpu_mult": 1.93
+ },
+ "Osprey Navy Issue": {
+  "pg": 1104.0,
+  "cpu": 517.0,
+  "n": 1,
+  "base_pg": 912.5,
+  "base_cpu": 562.5,
+  "pg_mult": 1.21,
+  "cpu_mult": 0.92
+ },
+ "Abaddon": {
+  "pg": 25463.5,
+  "cpu": 814.0,
+  "n": 2,
+  "base_pg": 26250.0,
+  "base_cpu": 700.0,
+  "pg_mult": 0.97,
+  "cpu_mult": 1.16
+ },
+ "Absolution": {
+  "pg": 2256.0,
+  "cpu": 682.0,
+  "n": 1,
+  "base_pg": 1937.5,
+  "base_cpu": 525.0,
+  "pg_mult": 1.16,
+  "cpu_mult": 1.3
+ },
+ "Apocalypse": {
+  "pg": 25932.0,
+  "cpu": 788.0,
+  "n": 3,
+  "base_pg": 26250.0,
+  "base_cpu": 675.0,
+  "pg_mult": 0.99,
+  "cpu_mult": 1.17
+ },
+ "Apostle": {
+  "pg": 1008012.0,
+  "cpu": 842.0,
+  "n": 8,
+  "base_pg": 1031250.0,
+  "base_cpu": 843.8,
+  "pg_mult": 0.98,
+  "cpu_mult": 1.0
+ },
+ "Arazu": {
+  "pg": 709.0,
+  "cpu": 491.0,
+  "n": 5,
+  "base_pg": 937.5,
+  "base_cpu": 525.0,
+  "pg_mult": 0.76,
+  "cpu_mult": 0.94
+ },
+ "Archon": {
+  "pg": 715257.0,
+  "cpu": 777.0,
+  "n": 1,
+  "base_pg": 968750.0,
+  "base_cpu": 781.2,
+  "pg_mult": 0.74,
+  "cpu_mult": 0.99
+ },
+ "Augoror": {
+  "pg": 890.0,
+  "cpu": 343.0,
+  "n": 3,
+  "base_pg": 812.5,
+  "base_cpu": 343.8,
+  "pg_mult": 1.1,
+  "cpu_mult": 1.0
+ },
+ "Raven": {
+  "pg": 12790.5,
+  "cpu": 871.0,
+  "n": 4,
+  "base_pg": 13750.0,
+  "base_cpu": 937.5,
+  "pg_mult": 0.93,
+  "cpu_mult": 0.93
+ },
+ "Bantam": {
+  "pg": 62.0,
+  "cpu": 249.0,
+  "n": 1,
+  "base_pg": 48.8,
+  "base_cpu": 250.0,
+  "pg_mult": 1.27,
+  "cpu_mult": 1.0
+ },
+ "Basilisk": {
+  "pg": 1877.0,
+  "cpu": 775.0,
+  "n": 3,
+  "base_pg": 1312.5,
+  "base_cpu": 575.0,
+  "pg_mult": 1.43,
+  "cpu_mult": 1.35
+ },
+ "Bhaalgorn": {
+  "pg": 21733.0,
+  "cpu": 675.0,
+  "n": 4,
+  "base_pg": 23000.0,
+  "base_cpu": 735.0,
+  "pg_mult": 0.94,
+  "cpu_mult": 0.92
+ },
+ "Broadsword": {
+  "pg": 1194.5,
+  "cpu": 493.5,
+  "n": 4,
+  "base_pg": 1262.5,
+  "base_cpu": 490.0,
+  "pg_mult": 0.95,
+  "cpu_mult": 1.01
+ },
+ "Celestis": {
+  "pg": 754.0,
+  "cpu": 361.0,
+  "n": 2,
+  "base_pg": 718.8,
+  "base_cpu": 468.8,
+  "pg_mult": 1.05,
+  "cpu_mult": 0.77
+ },
+ "Cenotaph": {
+  "pg": 1405.0,
+  "cpu": 775.0,
+  "n": 1,
+  "base_pg": 1375.0,
+  "base_cpu": 625.0,
+  "pg_mult": 1.02,
+  "cpu_mult": 1.24
+ },
+ "Chimera": {
+  "pg": 584007.0,
+  "cpu": 990.0,
+  "n": 1,
+  "base_pg": 562500.0,
+  "base_cpu": 1031.2,
+  "pg_mult": 1.04,
+  "cpu_mult": 0.96
+ },
+ "Claymore": {
+  "pg": 1298.0,
+  "cpu": 537.0,
+  "n": 4,
+  "base_pg": 1375.0,
+  "base_cpu": 656.2,
+  "pg_mult": 0.94,
+  "cpu_mult": 0.82
+ },
+ "Damnation": {
+  "pg": 1625.0,
+  "cpu": 500.0,
+  "n": 3,
+  "base_pg": 1625.0,
+  "base_cpu": 625.0,
+  "pg_mult": 1.0,
+  "cpu_mult": 0.8
+ },
+ "Deacon": {
+  "pg": 72.0,
+  "cpu": 174.0,
+  "n": 2,
+  "base_pg": 71.2,
+  "base_cpu": 181.2,
+  "pg_mult": 1.01,
+  "cpu_mult": 0.96
+ },
+ "Eos": {
+  "pg": 1408.0,
+  "cpu": 513.0,
+  "n": 2,
+  "base_pg": 1500.0,
+  "base_cpu": 531.2,
+  "pg_mult": 0.94,
+  "cpu_mult": 0.97
+ },
+ "Eris": {
+  "pg": 85.5,
+  "cpu": 351.5,
+  "n": 4,
+  "base_pg": 88.8,
+  "base_cpu": 312.5,
+  "pg_mult": 0.96,
+  "cpu_mult": 1.12
+ },
+ "Exequror": {
+  "pg": 748.0,
+  "cpu": 326.0,
+  "n": 3,
+  "base_pg": 762.5,
+  "base_cpu": 343.8,
+  "pg_mult": 0.98,
+  "cpu_mult": 0.95
+ },
+ "Flycatcher": {
+  "pg": 105.0,
+  "cpu": 373.0,
+  "n": 3,
+  "base_pg": 78.8,
+  "base_cpu": 362.5,
+  "pg_mult": 1.33,
+  "cpu_mult": 1.03
+ },
+ "Guardian": {
+  "pg": 2798.5,
+  "cpu": 379.5,
+  "n": 2,
+  "base_pg": 1343.8,
+  "base_cpu": 387.5,
+  "pg_mult": 2.08,
+  "cpu_mult": 0.98
+ },
+ "Huginn": {
+  "pg": 855.0,
+  "cpu": 451.0,
+  "n": 9,
+  "base_pg": 937.5,
+  "base_cpu": 500.0,
+  "pg_mult": 0.91,
+  "cpu_mult": 0.9
+ },
+ "Hulk": {
+  "pg": 83.0,
+  "cpu": 382.0,
+  "n": 2,
+  "base_pg": 137.5,
+  "base_cpu": 387.5,
+  "pg_mult": 0.6,
+  "cpu_mult": 0.99
+ },
+ "Impel": {
+  "pg": 392.0,
+  "cpu": 299.0,
+  "n": 1,
+  "base_pg": 412.5,
+  "base_cpu": 300.0,
+  "pg_mult": 0.95,
+  "cpu_mult": 1.0
+ },
+ "Keres": {
+  "pg": 41.0,
+  "cpu": 251.0,
+  "n": 5,
+  "base_pg": 41.2,
+  "base_cpu": 256.2,
+  "pg_mult": 1.0,
+  "cpu_mult": 0.98
+ },
+ "Lachesis": {
+  "pg": 723.0,
+  "cpu": 427.5,
+  "n": 4,
+  "base_pg": 1062.5,
+  "base_cpu": 562.5,
+  "pg_mult": 0.68,
+  "cpu_mult": 0.76
+ },
+ "Loki": {
+  "pg": 1233.0,
+  "cpu": 622.0,
+  "n": 11,
+  "base_pg": 687.5,
+  "base_cpu": 375.0,
+  "pg_mult": 1.79,
+  "cpu_mult": 1.66
+ },
+ "Machariel": {
+  "pg": 19598.0,
+  "cpu": 676.0,
+  "n": 1,
+  "base_pg": 22437.5,
+  "base_cpu": 750.0,
+  "pg_mult": 0.87,
+  "cpu_mult": 0.9
+ },
+ "Magus": {
+  "pg": 273.0,
+  "cpu": 261.0,
+  "n": 3,
+  "base_pg": 73.8,
+  "base_cpu": 262.5,
+  "pg_mult": 3.7,
+  "cpu_mult": 0.99
+ },
+ "Malediction": {
+  "pg": 38.0,
+  "cpu": 187.5,
+  "n": 2,
+  "base_pg": 45.0,
+  "base_cpu": 187.5,
+  "pg_mult": 0.84,
+  "cpu_mult": 1.0
+ },
+ "Maller": {
+  "pg": 4089.0,
+  "cpu": 477.0,
+  "n": 1,
+  "base_pg": 1437.5,
+  "base_cpu": 375.0,
+  "pg_mult": 2.84,
+  "cpu_mult": 1.27
+ },
+ "Minokawa": {
+  "pg": 772934.5,
+  "cpu": 1184.0,
+  "n": 6,
+  "base_pg": 593750.0,
+  "base_cpu": 1156.2,
+  "pg_mult": 1.3,
+  "cpu_mult": 1.02
+ },
+ "Moros": {
+  "pg": 515560.0,
+  "cpu": 985.5,
+  "n": 3,
+  "base_pg": 825000.0,
+  "base_cpu": 937.5,
+  "pg_mult": 0.62,
+  "cpu_mult": 1.05
+ },
+ "Muninn": {
+  "pg": 1260.5,
+  "cpu": 602.0,
+  "n": 2,
+  "base_pg": 1250.0,
+  "base_cpu": 506.2,
+  "pg_mult": 1.01,
+  "cpu_mult": 1.19
+ },
+ "Naglfar": {
+  "pg": 752833.0,
+  "cpu": 1040.5,
+  "n": 2,
+  "base_pg": 675000.0,
+  "base_cpu": 1000.0,
+  "pg_mult": 1.12,
+  "cpu_mult": 1.04
+ },
+ "Nestor": {
+  "pg": 9591.0,
+  "cpu": 729.0,
+  "n": 3,
+  "base_pg": 14062.5,
+  "base_cpu": 850.0,
+  "pg_mult": 0.68,
+  "cpu_mult": 0.86
+ },
+ "Nidhoggur": {
+  "pg": 574258.0,
+  "cpu": 921.0,
+  "n": 1,
+  "base_pg": 625000.0,
+  "base_cpu": 968.8,
+  "pg_mult": 0.92,
+  "cpu_mult": 0.95
+ },
+ "Nighthawk": {
+  "pg": 1562.0,
+  "cpu": 577.0,
+  "n": 1,
+  "base_pg": 1250.0,
+  "base_cpu": 700.0,
+  "pg_mult": 1.25,
+  "cpu_mult": 0.82
+ },
+ "Nightmare": {
+  "pg": 19464.0,
+  "cpu": 741.0,
+  "n": 2,
+  "base_pg": 18125.0,
+  "base_cpu": 887.5,
+  "pg_mult": 1.07,
+  "cpu_mult": 0.83
+ },
+ "Ninazu": {
+  "pg": 967785.0,
+  "cpu": 818.0,
+  "n": 2,
+  "base_pg": 950000.0,
+  "base_cpu": 968.8,
+  "pg_mult": 1.02,
+  "cpu_mult": 0.84
+ },
+ "Occator": {
+  "pg": 357.0,
+  "cpu": 329.0,
+  "n": 1,
+  "base_pg": 362.5,
+  "base_cpu": 325.0,
+  "pg_mult": 0.98,
+  "cpu_mult": 1.01
+ },
+ "Oneiros": {
+  "pg": 2101.0,
+  "cpu": 395.0,
+  "n": 3,
+  "base_pg": 1312.5,
+  "base_cpu": 462.5,
+  "pg_mult": 1.6,
+  "cpu_mult": 0.85
+ },
+ "Paladin": {
+  "pg": 19505.5,
+  "cpu": 711.0,
+  "n": 4,
+  "base_pg": 20000.0,
+  "base_cpu": 662.5,
+  "pg_mult": 0.98,
+  "cpu_mult": 1.07
+ },
+ "Phobos": {
+  "pg": 1373.0,
+  "cpu": 468.0,
+  "n": 1,
+  "base_pg": 1456.2,
+  "base_cpu": 468.8,
+  "pg_mult": 0.94,
+  "cpu_mult": 1.0
+ },
+ "Phoenix Navy Issue": {
+  "pg": 792909.0,
+  "cpu": 1381.0,
+  "n": 6,
+  "base_pg": 718750.0,
+  "base_cpu": 1262.5,
+  "pg_mult": 1.1,
+  "cpu_mult": 1.09
+ },
+ "Phoenix": {
+  "pg": 704083.0,
+  "cpu": 1349.0,
+  "n": 1,
+  "base_pg": 687500.0,
+  "base_cpu": 1237.5,
+  "pg_mult": 1.02,
+  "cpu_mult": 1.09
+ },
+ "Jaguar": {
+  "pg": 62.0,
+  "cpu": 205.0,
+  "n": 4,
+  "base_pg": 48.8,
+  "base_cpu": 225.0,
+  "pg_mult": 1.27,
+  "cpu_mult": 0.91
+ },
+ "Rapier": {
+  "pg": 790.0,
+  "cpu": 569.0,
+  "n": 3,
+  "base_pg": 937.5,
+  "base_cpu": 600.0,
+  "pg_mult": 0.84,
+  "cpu_mult": 0.95
+ },
+ "Redeemer": {
+  "pg": 21313.5,
+  "cpu": 694.0,
+  "n": 4,
+  "base_pg": 21250.0,
+  "base_cpu": 631.2,
+  "pg_mult": 1.0,
+  "cpu_mult": 1.1
+ },
+ "Retribution": {
+  "pg": 69.0,
+  "cpu": 190.0,
+  "n": 3,
+  "base_pg": 77.5,
+  "base_cpu": 175.0,
+  "pg_mult": 0.89,
+  "cpu_mult": 1.09
+ },
+ "Revelation": {
+  "pg": 890657.0,
+  "cpu": 875.0,
+  "n": 3,
+  "base_pg": 875000.0,
+  "base_cpu": 812.5,
+  "pg_mult": 1.02,
+  "cpu_mult": 1.08
+ },
+ "Rook": {
+  "pg": 975.0,
+  "cpu": 597.0,
+  "n": 1,
+  "base_pg": 925.0,
+  "base_cpu": 750.0,
+  "pg_mult": 1.05,
+  "cpu_mult": 0.8
+ },
+ "Sabre": {
+  "pg": 87.5,
+  "cpu": 286.5,
+  "n": 2,
+  "base_pg": 72.5,
+  "base_cpu": 287.5,
+  "pg_mult": 1.21,
+  "cpu_mult": 1.0
+ },
+ "Scimitar": {
+  "pg": 1019.0,
+  "cpu": 676.0,
+  "n": 5,
+  "base_pg": 918.8,
+  "base_cpu": 556.2,
+  "pg_mult": 1.11,
+  "cpu_mult": 1.22
+ },
+ "Scorpion": {
+  "pg": 8440.0,
+  "cpu": 757.0,
+  "n": 2,
+  "base_pg": 11875.0,
+  "base_cpu": 937.5,
+  "pg_mult": 0.71,
+  "cpu_mult": 0.81
+ },
+ "Stormbringer": {
+  "pg": 1462.0,
+  "cpu": 540.0,
+  "n": 3,
+  "base_pg": 1212.5,
+  "base_cpu": 487.5,
+  "pg_mult": 1.21,
+  "cpu_mult": 1.11
+ },
+ "Tengu": {
+  "pg": 1135.0,
+  "cpu": 729.0,
+  "n": 7,
+  "base_pg": 525.0,
+  "base_cpu": 387.5,
+  "pg_mult": 2.16,
+  "cpu_mult": 1.88
+ },
+ "Thanatos": {
+  "pg": 605258.0,
+  "cpu": 763.0,
+  "n": 1,
+  "base_pg": 875000.0,
+  "base_cpu": 906.2,
+  "pg_mult": 0.69,
+  "cpu_mult": 0.84
+ },
+ "Tornado": {
+  "pg": 26170.0,
+  "cpu": 522.0,
+  "n": 1,
+  "base_pg": 1250.0,
+  "base_cpu": 427.5,
+  "pg_mult": 20.94,
+  "cpu_mult": 1.22
+ },
+ "Typhoon": {
+  "pg": 12972.0,
+  "cpu": 843.5,
+  "n": 4,
+  "base_pg": 15625.0,
+  "base_cpu": 800.0,
+  "pg_mult": 0.83,
+  "cpu_mult": 1.05
+ },
+ "Vindicator": {
+  "pg": 19391.0,
+  "cpu": 878.0,
+  "n": 3,
+  "base_pg": 21875.0,
+  "base_cpu": 787.5,
+  "pg_mult": 0.89,
+  "cpu_mult": 1.11
+ },
+ "Widow": {
+  "pg": 12101.5,
+  "cpu": 858.5,
+  "n": 4,
+  "base_pg": 12250.0,
+  "base_cpu": 1000.0,
+  "pg_mult": 0.99,
+  "cpu_mult": 0.86
+ },
+ "Zirnitra": {
+  "pg": 1241107.0,
+  "cpu": 1037.0,
+  "n": 3,
+  "base_pg": 1168750.0,
+  "base_cpu": 1050.0,
+  "pg_mult": 1.06,
+  "cpu_mult": 0.99
+ },
+ "Legion": {
+  "pg": 1633.0,
+  "cpu": 580.0,
+  "n": 5,
+  "base_pg": 781.2,
+  "base_cpu": 275.0,
+  "pg_mult": 2.09,
+  "cpu_mult": 2.11
+ },
+ "Zarmazd": {
+  "pg": 1186.0,
+  "cpu": 453.0,
+  "n": 3,
+  "base_pg": 1187.5,
+  "base_cpu": 456.2,
+  "pg_mult": 1.0,
+  "cpu_mult": 0.99
+ },
+ "Blackbird": {
+  "pg": 655.0,
+  "cpu": 434.0,
+  "n": 1,
+  "base_pg": 656.2,
+  "base_cpu": 531.2,
+  "pg_mult": 1.0,
+  "cpu_mult": 0.82
+ },
+ "Oracle": {
+  "pg": 26243.5,
+  "cpu": 707.5,
+  "n": 2,
+  "base_pg": 1718.8,
+  "base_cpu": 431.2,
+  "pg_mult": 15.27,
+  "cpu_mult": 1.64
+ },
+ "Praxis": {
+  "pg": 9136.0,
+  "cpu": 795.0,
+  "n": 3,
+  "base_pg": 18750.0,
+  "base_cpu": 750.0,
+  "pg_mult": 0.49,
+  "cpu_mult": 1.06
+ },
+ "Catalyst": {
+  "pg": 69.0,
+  "cpu": 203.0,
+  "n": 1,
+  "base_pg": 87.5,
+  "base_cpu": 222.5,
+  "pg_mult": 0.79,
+  "cpu_mult": 0.91
+ },
+ "Covetor": {
+  "pg": 26.0,
+  "cpu": 273.0,
+  "n": 3,
+  "base_pg": 87.5,
+  "base_cpu": 300.0,
+  "pg_mult": 0.3,
+  "cpu_mult": 0.91
+ },
+ "Mackinaw": {
+  "pg": 81.0,
+  "cpu": 348.0,
+  "n": 3,
+  "base_pg": 137.5,
+  "base_cpu": 387.5,
+  "pg_mult": 0.59,
+  "cpu_mult": 0.9
+ },
+ "Procurer": {
+  "pg": 29.0,
+  "cpu": 286.0,
+  "n": 1,
+  "base_pg": 112.5,
+  "base_cpu": 387.5,
+  "pg_mult": 0.26,
+  "cpu_mult": 0.74
+ },
+ "Retriever": {
+  "pg": 52.0,
+  "cpu": 280.0,
+  "n": 1,
+  "base_pg": 103.8,
+  "base_cpu": 325.0,
+  "pg_mult": 0.5,
+  "cpu_mult": 0.86
+ },
+ "Skiff": {
+  "pg": 79.0,
+  "cpu": 346.0,
+  "n": 2,
+  "base_pg": 220.0,
+  "base_cpu": 387.5,
+  "pg_mult": 0.36,
+  "cpu_mult": 0.89
+ },
+ "Prophecy": {
+  "pg": 942.0,
+  "cpu": 414.0,
+  "n": 1,
+  "base_pg": 1375.0,
+  "base_cpu": 518.8,
+  "pg_mult": 0.69,
+  "cpu_mult": 0.8
+ },
+ "Augoror Navy Issue": {
+  "pg": 1408.0,
+  "cpu": 424.0,
+  "n": 3,
+  "base_pg": 1437.5,
+  "base_cpu": 400.0,
+  "pg_mult": 0.98,
+  "cpu_mult": 1.06
+ },
+ "Confessor": {
+  "pg": 92.0,
+  "cpu": 233.0,
+  "n": 3,
+  "base_pg": 77.5,
+  "base_cpu": 225.0,
+  "pg_mult": 1.19,
+  "cpu_mult": 1.04
+ },
+ "Golem": {
+  "pg": 10509.5,
+  "cpu": 856.5,
+  "n": 2,
+  "base_pg": 10625.0,
+  "base_cpu": 893.8,
+  "pg_mult": 0.99,
+  "cpu_mult": 0.96
+ },
+ "Armageddon": {
+  "pg": 15169.0,
+  "cpu": 603.0,
+  "n": 1,
+  "base_pg": 16875.0,
+  "base_cpu": 687.5,
+  "pg_mult": 0.9,
+  "cpu_mult": 0.88
+ },
+ "Omen Navy Issue": {
+  "pg": 1354.0,
+  "cpu": 439.0,
+  "n": 3,
+  "base_pg": 1200.0,
+  "base_cpu": 418.8,
+  "pg_mult": 1.13,
+  "cpu_mult": 1.05
+ },
+ "Coercer Navy Issue": {
+  "pg": 95.0,
+  "cpu": 237.0,
+  "n": 1,
+  "base_pg": 91.2,
+  "base_cpu": 215.0,
+  "pg_mult": 1.04,
+  "cpu_mult": 1.1
+ },
+ "Armageddon Navy Issue": {
+  "pg": 15807.0,
+  "cpu": 742.0,
+  "n": 1,
+  "base_pg": 20000.0,
+  "base_cpu": 700.0,
+  "pg_mult": 0.79,
+  "cpu_mult": 1.06
+ },
+ "Apocalypse Navy Issue": {
+  "pg": 29669.0,
+  "cpu": 830.0,
+  "n": 3,
+  "base_pg": 27500.0,
+  "base_cpu": 725.0,
+  "pg_mult": 1.08,
+  "cpu_mult": 1.14
+ },
+ "Revelation Navy Issue": {
+  "pg": 1022808.0,
+  "cpu": 968.0,
+  "n": 7,
+  "base_pg": 1031250.0,
+  "base_cpu": 962.5,
+  "pg_mult": 0.99,
+  "cpu_mult": 1.01
+ },
+ "Moros Navy Issue": {
+  "pg": 856608.0,
+  "cpu": 988.5,
+  "n": 6,
+  "base_pg": 850000.0,
+  "base_cpu": 1000.0,
+  "pg_mult": 1.01,
+  "cpu_mult": 0.99
+ },
+ "Exequror Navy Issue": {
+  "pg": 1338.0,
+  "cpu": 456.0,
+  "n": 1,
+  "base_pg": 1287.5,
+  "base_cpu": 425.0,
+  "pg_mult": 1.04,
+  "cpu_mult": 1.07
+ },
+ "Tempest": {
+  "pg": 20193.0,
+  "cpu": 731.0,
+  "n": 1,
+  "base_pg": 20000.0,
+  "base_cpu": 687.5,
+  "pg_mult": 1.01,
+  "cpu_mult": 1.06
+ },
+ "Kronos": {
+  "pg": 14474.0,
+  "cpu": 651.0,
+  "n": 1,
+  "base_pg": 17500.0,
+  "base_cpu": 725.0,
+  "pg_mult": 0.83,
+  "cpu_mult": 0.9
+ },
+ "Ishtar": {
+  "pg": 779.5,
+  "cpu": 431.5,
+  "n": 4,
+  "base_pg": 925.0,
+  "base_cpu": 425.0,
+  "pg_mult": 0.84,
+  "cpu_mult": 1.02
+ },
+ "Ferox Navy Issue": {
+  "pg": 1731.0,
+  "cpu": 714.0,
+  "n": 1,
+  "base_pg": 1437.5,
+  "base_cpu": 643.8,
+  "pg_mult": 1.2,
+  "cpu_mult": 1.11
+ },
+ "Aeon": {
+  "pg": 717228.0,
+  "cpu": 861.0,
+  "n": 3,
+  "base_pg": 1156250.0,
+  "base_cpu": 906.2,
+  "pg_mult": 0.62,
+  "cpu_mult": 0.95
+ },
+ "Avatar": {
+  "pg": 1623007.0,
+  "cpu": 1126.0,
+  "n": 2,
+  "base_pg": 1562500.0,
+  "base_cpu": 1018.8,
+  "pg_mult": 1.04,
+  "cpu_mult": 1.11
+ },
+ "Erebus": {
+  "pg": 1293007.0,
+  "cpu": 1315.5,
+  "n": 2,
+  "base_pg": 1312500.0,
+  "base_cpu": 1187.5,
+  "pg_mult": 0.99,
+  "cpu_mult": 1.11
+ },
+ "Falcon": {
+  "pg": 650.0,
+  "cpu": 584.0,
+  "n": 1,
+  "base_pg": 950.0,
+  "base_cpu": 625.0,
+  "pg_mult": 0.68,
+  "cpu_mult": 0.93
+ },
+ "Harpy": {
+  "pg": 63.5,
+  "cpu": 209.0,
+  "n": 2,
+  "base_pg": 62.5,
+  "base_cpu": 231.2,
+  "pg_mult": 1.02,
+  "cpu_mult": 0.9
+ },
+ "Hound": {
+  "pg": 5161.0,
+  "cpu": 507.5,
+  "n": 4,
+  "base_pg": 50.0,
+  "base_cpu": 387.5,
+  "pg_mult": 103.22,
+  "cpu_mult": 1.31
+ },
+ "Leviathan": {
+  "pg": 1179505.0,
+  "cpu": 1792.0,
+  "n": 2,
+  "base_pg": 943750.0,
+  "base_cpu": 1562.5,
+  "pg_mult": 1.25,
+  "cpu_mult": 1.15
+ },
+ "Manticore": {
+  "pg": 5159.0,
+  "cpu": 540.0,
+  "n": 3,
+  "base_pg": 47.5,
+  "base_cpu": 412.5,
+  "pg_mult": 108.61,
+  "cpu_mult": 1.31
+ },
+ "Nemesis": {
+  "pg": 5159.0,
+  "cpu": 553.0,
+  "n": 2,
+  "base_pg": 47.5,
+  "base_cpu": 393.8,
+  "pg_mult": 108.61,
+  "cpu_mult": 1.4
+ },
+ "Nyx": {
+  "pg": 897008.0,
+  "cpu": 935.0,
+  "n": 3,
+  "base_pg": 1031250.0,
+  "base_cpu": 1000.0,
+  "pg_mult": 0.87,
+  "cpu_mult": 0.94
+ },
+ "Pilgrim": {
+  "pg": 774.0,
+  "cpu": 556.0,
+  "n": 1,
+  "base_pg": 1250.0,
+  "base_cpu": 462.5,
+  "pg_mult": 0.62,
+  "cpu_mult": 1.2
+ },
+ "Ragnarok": {
+  "pg": 1183005.0,
+  "cpu": 1160.0,
+  "n": 2,
+  "base_pg": 1206250.0,
+  "base_cpu": 1312.5,
+  "pg_mult": 0.98,
+  "cpu_mult": 0.88
+ },
+ "Tempest Fleet Issue": {
+  "pg": 22437.0,
+  "cpu": 740.5,
+  "n": 2,
+  "base_pg": 21875.0,
+  "base_cpu": 725.0,
+  "pg_mult": 1.03,
+  "cpu_mult": 1.02
+ },
+ "Zealot": {
+  "pg": 1853.0,
+  "cpu": 468.0,
+  "n": 1,
+  "base_pg": 1475.0,
+  "base_cpu": 425.0,
+  "pg_mult": 1.26,
+  "cpu_mult": 1.1
+ },
+ "Crucifier": {
+  "pg": 45.0,
+  "cpu": 186.0,
+  "n": 2,
+  "base_pg": 33.8,
+  "base_cpu": 293.8,
+  "pg_mult": 1.33,
+  "cpu_mult": 0.63
+ },
+ "Dramiel": {
+  "pg": 69.0,
+  "cpu": 159.0,
+  "n": 1,
+  "base_pg": 46.2,
+  "base_cpu": 166.2,
+  "pg_mult": 1.49,
+  "cpu_mult": 0.96
+ },
+ "Succubus": {
+  "pg": 101.0,
+  "cpu": 200.0,
+  "n": 3,
+  "base_pg": 62.5,
+  "base_cpu": 212.5,
+  "pg_mult": 1.62,
+  "cpu_mult": 0.94
+ },
+ "Astero": {
+  "pg": 64.0,
+  "cpu": 278.0,
+  "n": 1,
+  "base_pg": 40.0,
+  "base_cpu": 212.5,
+  "pg_mult": 1.6,
+  "cpu_mult": 1.31
+ },
+ "Ikitursa": {
+  "pg": 1585.0,
+  "cpu": 508.0,
+  "n": 1,
+  "base_pg": 1562.5,
+  "base_cpu": 500.0,
+  "pg_mult": 1.01,
+  "cpu_mult": 1.02
+ },
+ "Gaia": {
+  "pg": 504337.0,
+  "cpu": 787.0,
+  "n": 1,
+  "base_pg": 994318.8,
+  "base_cpu": 1031.2,
+  "pg_mult": 0.51,
+  "cpu_mult": 0.76
+ },
+ "Ymir": {
+  "pg": 615723.0,
+  "cpu": 1013.0,
+  "n": 1,
+  "base_pg": 694443.8,
+  "base_cpu": 1093.8,
+  "pg_mult": 0.89,
+  "cpu_mult": 0.93
+ },
+ "Salvation": {
+  "pg": 593337.0,
+  "cpu": 765.0,
+  "n": 1,
+  "base_pg": 982593.8,
+  "base_cpu": 1025.0,
+  "pg_mult": 0.6,
+  "cpu_mult": 0.75
+ },
+ "Nereus": {
+  "pg": 338.5,
+  "cpu": 345.5,
+  "n": 2,
+  "base_pg": 268.8,
+  "base_cpu": 437.5,
+  "pg_mult": 1.26,
+  "cpu_mult": 0.79
+ },
+ "Vexor": {
+  "pg": 696.5,
+  "cpu": 334.0,
+  "n": 2,
+  "base_pg": 875.0,
+  "base_cpu": 375.0,
+  "pg_mult": 0.8,
+  "cpu_mult": 0.89
+ },
+ "Iteron Mark V": {
+  "pg": 85.0,
+  "cpu": 124.0,
+  "n": 1,
+  "base_pg": 106.2,
+  "base_cpu": 337.5,
+  "pg_mult": 0.8,
+  "cpu_mult": 0.37
+ },
+ "Kestrel": {
+  "pg": 43.0,
+  "cpu": 251.0,
+  "n": 1,
+  "base_pg": 56.2,
+  "base_cpu": 225.0,
+  "pg_mult": 0.77,
+  "cpu_mult": 1.12
+ },
+ "Corax": {
+  "pg": 72.0,
+  "cpu": 263.0,
+  "n": 1,
+  "base_pg": 66.2,
+  "base_cpu": 262.5,
+  "pg_mult": 1.09,
+  "cpu_mult": 1.0
+ },
+ "Miasmos": {
+  "pg": 152.0,
+  "cpu": 120.0,
+  "n": 1,
+  "base_pg": 150.0,
+  "base_cpu": 325.0,
+  "pg_mult": 1.01,
+  "cpu_mult": 0.37
+ },
+ "Algos": {
+  "pg": 64.0,
+  "cpu": 191.0,
+  "n": 1,
+  "base_pg": 68.8,
+  "base_cpu": 200.0,
+  "pg_mult": 0.93,
+  "cpu_mult": 0.95
+ },
+ "Dragoon": {
+  "pg": 69.0,
+  "cpu": 160.0,
+  "n": 1,
+  "base_pg": 72.5,
+  "base_cpu": 193.8,
+  "pg_mult": 0.95,
+  "cpu_mult": 0.83
+ },
+ "Bellicose": {
+  "pg": 995.0,
+  "cpu": 468.0,
+  "n": 1,
+  "base_pg": 975.0,
+  "base_cpu": 500.0,
+  "pg_mult": 1.02,
+  "cpu_mult": 0.94
+ },
+ "Odysseus": {
+  "pg": 470.0,
+  "cpu": 596.0,
+  "n": 2,
+  "base_pg": 1468.8,
+  "base_cpu": 650.0,
+  "pg_mult": 0.32,
+  "cpu_mult": 0.92
+ },
+ "Caldari Navy Hookbill": {
+  "pg": 66.5,
+  "cpu": 234.5,
+  "n": 2,
+  "base_pg": 46.2,
+  "base_cpu": 206.2,
+  "pg_mult": 1.44,
+  "cpu_mult": 1.14
+ },
+ "Sunesis": {
+  "pg": 81.0,
+  "cpu": 101.0,
+  "n": 1,
+  "base_pg": 78.8,
+  "base_cpu": 218.8,
+  "pg_mult": 1.03,
+  "cpu_mult": 0.46
+ },
+ "Pontifex": {
+  "pg": 68.0,
+  "cpu": 255.0,
+  "n": 1,
+  "base_pg": 68.8,
+  "base_cpu": 275.0,
+  "pg_mult": 0.99,
+  "cpu_mult": 0.93
+ },
+ "Vedmak": {
+  "pg": 2001.0,
+  "cpu": 490.5,
+  "n": 2,
+  "base_pg": 1462.5,
+  "base_cpu": 475.0,
+  "pg_mult": 1.37,
+  "cpu_mult": 1.03
+ },
+ "Raven Navy Issue": {
+  "pg": 15766.0,
+  "cpu": 1040.0,
+  "n": 1,
+  "base_pg": 15000.0,
+  "base_cpu": 975.0,
+  "pg_mult": 1.05,
+  "cpu_mult": 1.07
+ },
+ "Sigil": {
+  "pg": 372.0,
+  "cpu": 401.0,
+  "n": 1,
+  "base_pg": 312.5,
+  "base_cpu": 375.0,
+  "pg_mult": 1.19,
+  "cpu_mult": 1.07
+ },
+ "Hecate": {
+  "pg": 76.0,
+  "cpu": 340.0,
+  "n": 1,
+  "base_pg": 67.5,
+  "base_cpu": 287.5,
+  "pg_mult": 1.13,
+  "cpu_mult": 1.18
+ },
+ "Naga": {
+  "pg": 18935.0,
+  "cpu": 901.0,
+  "n": 1,
+  "base_pg": 1093.8,
+  "base_cpu": 531.2,
+  "pg_mult": 17.31,
+  "cpu_mult": 1.7
+ },
+ "Buzzard": {
+  "pg": 33.0,
+  "cpu": 551.0,
+  "n": 1,
+  "base_pg": 18.8,
+  "base_cpu": 375.0,
+  "pg_mult": 1.76,
+  "cpu_mult": 1.47
+ },
+ "Helios": {
+  "pg": 35.0,
+  "cpu": 556.0,
+  "n": 1,
+  "base_pg": 25.0,
+  "base_cpu": 362.5,
+  "pg_mult": 1.4,
+  "cpu_mult": 1.53
+ },
+ "Anathema": {
+  "pg": 31.0,
+  "cpu": 526.0,
+  "n": 1,
+  "base_pg": 25.0,
+  "base_cpu": 350.0,
+  "pg_mult": 1.24,
+  "cpu_mult": 1.5
+ },
+ "Molok": {
+  "pg": 865506.0,
+  "cpu": 1068.0,
+  "n": 1,
+  "base_pg": 1718750.0,
+  "base_cpu": 1125.0,
+  "pg_mult": 0.5,
+  "cpu_mult": 0.95
+ },
+ "Azariel": {
+  "pg": 1351506.0,
+  "cpu": 1479.0,
+  "n": 1,
+  "base_pg": 1331250.0,
+  "base_cpu": 1437.5,
+  "pg_mult": 1.02,
+  "cpu_mult": 1.03
+ },
+ "Komodo": {
+  "pg": 1242004.0,
+  "cpu": 1850.0,
+  "n": 1,
+  "base_pg": 1050000.0,
+  "base_cpu": 1718.8,
+  "pg_mult": 1.18,
+  "cpu_mult": 1.08
+ },
+ "Vanquisher": {
+  "pg": 1357007.0,
+  "cpu": 1366.0,
+  "n": 1,
+  "base_pg": 1443750.0,
+  "base_cpu": 1306.2,
+  "pg_mult": 0.94,
+  "cpu_mult": 1.05
+ },
+ "Eagle": {
+  "pg": 1520.0,
+  "cpu": 570.0,
+  "n": 1,
+  "base_pg": 1187.5,
+  "base_cpu": 550.0,
+  "pg_mult": 1.28,
+  "cpu_mult": 1.04
+ },
+ "Vagabond": {
+  "pg": 1721.0,
+  "cpu": 497.0,
+  "n": 1,
+  "base_pg": 1156.2,
+  "base_cpu": 500.0,
+  "pg_mult": 1.49,
+  "cpu_mult": 0.99
+ }
+}
