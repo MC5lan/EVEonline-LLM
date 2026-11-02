@@ -1,0 +1,6 @@
+title: 舰种索引（按 SDE 分组）
+domain: 02_舰船与装配
+subdomain: 
+origin: SDE sde_facts.jsonl
+chars: 426
+status: drafted

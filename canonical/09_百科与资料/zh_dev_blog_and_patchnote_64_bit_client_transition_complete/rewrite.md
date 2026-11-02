@@ -1,0 +1,25 @@
+---
+id: canon-8910679349
+title: zh_dev_blog_and_patchnote_64_bit_client_transition_complete
+domain: 09_百科与资料
+subdomain: 
+type: canonical
+status: drafted
+sde_build: 3662168 / 2026-10-30
+verified: 2026-11-01
+origin: corpus\09_百科与资料\zh_dev_blog_and_patchnote_64_bit_client_transition_complete.md
+---
+# zh_dev_blog_and_patchnote_64_bit_client_transition_complete
+
+在2019年五月，64位元客戶端開始進入公開測試階段。雖然只是自願選擇的，但有一半的EVE 玩家已在四個月內轉換至64位元客戶端。
+
+## 要点
+
+- 由 32位元切換至 64位元客戶端的的過渡進程現在完成，謝謝各EVE 玩家的配合及在使用客戶端上的反饋。64位元客戶端將確保 EVE Online 未來能繼續發展，同時能夠減少用於同時維護兩款客戶端的人力資源。
+- CCP 這邊的數據顯示現在仍有一小數玩家，使用能搭載64位元操作系統的電腦硬件，而還在使用32位元的操作系統。CCP 建議玩家們盡快升級至 64位元操作系統。
+- 同時，CCP 提升 EVE客戶端的最低記憶體需求至 4GB 以配合 64位元客戶端的使用。CCP 亦提升客戶端的硬盤空間需求至 23GB 以配合過去年間所添加的遊戲內容。
+- CCP 另外還有正進行中的對遊戲技術升級，如對 DirectX 12 的升級等，將會是 CCP 對 EVE Online 未來的投資及承諾。
+
+## 数据来源
+
+- 原始语料整理（无对应 SDE 条目）

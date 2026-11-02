@@ -1,0 +1,26 @@
+---
+id: canon-3158056997
+title: zh_dev_blog_and_patchnote_32-bit_client_deprecation
+domain: 09_百科与资料
+subdomain: 
+type: canonical
+status: drafted
+sde_build: 3662168 / 2026-10-30
+verified: 2026-11-01
+origin: corpus\09_百科与资料\zh_dev_blog_and_patchnote_32-bit_client_deprecation.md
+---
+# zh_dev_blog_and_patchnote_32-bit_client_deprecation
+
+------------------------------------------------------
+
+## 要点
+
+- -------------------------------------------------------\\原文鏈接: 32-bit Client Deprecation
+- 早於一月時，CCP 已經宣告過 64位元客戶端的轉移工作順利完成，現在已正式於 26/2 停用 32位元客戶端。
+- 26/2 過後，玩家將不能以 32位元制式啟動 EVE 客戶端，玩家必需使用 64位元客戶端。如果玩家之前曾經於啟動器中手動設定使用 32位元制式，而作業系統亦支持 64位元制式的話，將會自動被轉換至使用 64位元客戶端。
+- 遊戲轉移至使用 64位元制式將會減少用於維護兩種客戶端的人力資源，同時亦容許 CCP 進一步投資新伊甸伺服器運作基礎建設。
+- 雖然絕大多數玩家都很順暢地使用 64位元客戶端遊玩，但如果玩家們遇到程式運行上的問題，請向 CCP 以 BUG 回報方式回報問題。
+
+## 数据来源
+
+- 原始语料整理（无对应 SDE 条目）

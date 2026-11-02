@@ -1,0 +1,25 @@
+---
+id: canon-3742656846
+title: zh_dev_blog_and_patchnote_partnership_program
+domain: 09_百科与资料
+subdomain: 
+type: canonical
+status: drafted
+sde_build: 3662168 / 2026-10-30
+verified: 2026-11-01
+origin: corpus\09_百科与资料\zh_dev_blog_and_patchnote_partnership_program.md
+---
+# zh_dev_blog_and_patchnote_partnership_program
+
+EVE 社區有着一堆熱心的玩家, 利用自己的時間及才能去創作各種不同讓EVE 社區充滿活力的內容。CCP 對玩家的創意, 才智, 團結精神非常欣賞, 這將激勵著 CCP 進一步支持遊戲世界中最好的玩家團體。
+
+## 要点
+
+- 於是, CCP 很榮幸地公佈新的 EVE 合作伙伴計劃, 與有創造力, 勤奮, 具娛樂性的玩家們合作, 支援他們積極創造更多 EVE Online 內容供所有人欣賞。例如實況，博客, 播客, 第三方應用等。
+- EVE 合作玩家會獲得一系列支援福利, 以答謝他們對 EVE 社區的付出。包括 Ω 克隆, 有 CCP 人員常駐的專屬合作伙伴 Discord 伺服器, 特別版 SKIN 以供他們向玩家們贈送。首批合作伙伴 SKIN 將包括每月就不同船體推出的SKIN, 所以記得時常關注你喜歡的 EVE 伙伴以獲得這些特別版 SKIN。
+- 有興趣了解 EVE 合作伙伴福利內容的可以到 Partnership Program 查看。亦會列出成爲合作伙伴的最低要求及申請連結等。
+- 其實福利內容如下:  *遊戲時間支援, 以減輕他們爲支持 Ω 帳號的壓力, 而能更集中於內容創作上  *其帳號獲得免費的 Ω 升級  *額外每月 500 PLEX, 供創作者隨意使用  *專屬的 Discord 伺服器  *能與 CCP 及其他創作者就其創作內容作出交流, 提出問題等。  *能優先邀請 CCP 員工參與其實況創作或訪談等。  *特別版 SKIN, 以讓創作者能提供更大誘因吸引觀眾  *每月提供一堆 SKIN 供創作者向玩家們以符合其媒介的形式送出。  *SKIN 內容每月更新, 讓觀眾們保持新鮮感  *宣傳機會  *有機會透過 CCP 官網, 各社交媒體, 實況, 甚至登錄器上宣傳自己的作品
+
+## 数据来源
+
+- 原始语料整理（无对应 SDE 条目）

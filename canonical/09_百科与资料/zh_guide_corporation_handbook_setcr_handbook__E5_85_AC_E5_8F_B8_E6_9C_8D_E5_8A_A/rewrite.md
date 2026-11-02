@@ -1,0 +1,33 @@
+---
+id: canon-6102776178
+title: zh_guide_corporation_handbook_setcr_handbook__E5_85_AC_E5_8F_B8_E6_9C_8D_E5_8A_A1_start
+domain: 09_百科与资料
+subdomain: 
+type: canonical
+status: drafted
+sde_build: 3662168 / 2026-10-30
+verified: 2026-11-01
+origin: corpus\09_百科与资料\zh_guide_corporation_handbook_setcr_handbook__E5_85_AC_E5_8F_B8_E6_9C_8D_E5_8A_A1_start.md
+---
+# zh_guide_corporation_handbook_setcr_handbook__E5_85_AC_E5_8F_B8_E6_9C_8D_E5_8A_A1_start
+
+适用船只：【不定时修改，具体请关注azbl蓝图库】
+- 弯刀
+- 伐木者
+- 海燕适用人群：
+- 有T1建制补损需要的活跃PVP成员。
+使用流程：
+ - 找大长老报备获得相关权限。
+ - 你需要自己在1EO的阿紫贝尔搓出自己的舰船。
+- 获得权限后，你在阿紫贝尔打开工厂界面后：
+- 这样你就获得了你的T1建制舰船，但是这只是空船_(:3J∠)_。
+
+## 要点
+
+- - 你需要开着你的船到RF星城，然后打开公司公用机库： - 这样，你的舰船就有了装备和船插_(:3J∠)_
+- - 好像少了点什么？弹药和无人机。你需要自己从市场购买适量的弹药和无人机补充。 大功告成！你完成了自己的T1建制补损！
+- 注意事项： - 按需使用，若使用该服务投机倒把，一经发现，踢团处理。 - 若发现图纸或矿物不足请及时向大长老或者其他管理反映。
+
+## 数据来源
+
+- 原始语料整理（无对应 SDE 条目）

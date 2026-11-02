@@ -1,0 +1,26 @@
+---
+id: canon-4165799344
+title: zh_dev_blog_and_patchnote_20.02
+domain: 09_百科与资料
+subdomain: 
+type: canonical
+status: drafted
+sde_build: 3662168 / 2026-10-30
+verified: 2026-11-01
+origin: corpus\09_百科与资料\zh_dev_blog_and_patchnote_20.02.md
+---
+# zh_dev_blog_and_patchnote_20.02
+
+<image shape="circle">作者: Rabbit P MuraSaki Siki</image>\\官网公告链接: Patch Notes For 20.02 Release \\
+
+## 要点
+
+- ===== 平衡 =====統合部更新了動態賞金系統的數值：  *動態賞金系數下限由 30% 上調至 50%。星系如果在此最低賞金系數時，亦會支付 100% 量的賞金，而當中 50% 會進入 ESS 中。  *上調儲備賞金池的最大支付量 33.3%
+- >CCP 把那些以往損失掉的賞金撥入了儲備賞金池。現在最低系數的情況下，玩家錢包與 ESS 主/儲備池總的將會拿到 100% 量的賞金，以往則只有 58.2%。
+- ===== 雜項 =====  *🤝Pochven（故土）及 Needlejack（挺針）纖維不能夠於蟲洞未知星系中使用。  *🤝Needlejack（挺針）纖維將不會傳送玩家至相同星域中的星系。
+- ===== 技能 =====  *爲 Neocom 的技能按鈕加入新圖像效果。  *加入新的技能訓練進度條  *在完成技能訓練/達至里程碑時，會有新動畫效果顯示。  *Neocom 及技能規劃視窗中的技能圖標加入浮動提示。
+- ===== UI =====  *爲 CONCORD Rogue Analysis Beacon 添加額外說明信息，列出有關能連結的艦船，連結時間，連結距離。  *🤝合同管理現在可以拒絕聯盟合同。  *🤝玩家可以把公司及聯盟拖拉到合同的對象輸入欄中。
+
+## 数据来源
+
+- 原始语料整理（无对应 SDE 条目）

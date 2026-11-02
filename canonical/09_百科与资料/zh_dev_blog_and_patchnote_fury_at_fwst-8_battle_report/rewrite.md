@@ -1,0 +1,50 @@
+---
+id: canon-1912897751
+title: zh_dev_blog_and_patchnote_fury_at_fwst-8_battle_report
+domain: 09_百科与资料
+subdomain: 
+type: canonical
+status: drafted
+sde_build: 3662168 / 2026-10-30
+verified: 2026-11-01
+origin: corpus\09_百科与资料\zh_dev_blog_and_patchnote_fury_at_fwst-8_battle_report.md
+---
+# zh_dev_blog_and_patchnote_fury_at_fwst-8_battle_report
+
+## zh_dev_blog_and_patchnote_fury_at_fwst-8_battle_report
+
+<jumbotron> --------
+
+## FWST-8 會戰報告
+
+--------\\原文鏈接: Fury At FWST-8 Battle Report </jumbotron> 在 10月份, CCP 公佈了 EVE 玩家們參與的 FWST-8 大戰獲得了 2項健力士世界紀錄。那帖子爲大家介紹了是次會戰的自2016年起淵源。 而這帖子, 則會集中於 FWST-8 會戰本身, 爲玩家帶來更多這場會戰的數據, 更好地了解這一次世界紀錄的大戰。 ----- <fs x-large>戰略意義</fs> 自 5/7/2020, Imperium 與 Legacy Coalition 的
+
+## 全文脉络（等距抽样）
+
+- # zh_dev_blog_and_patchnote_fury_at_fwst-8_battle_report
+- --------\\原文鏈接: Fury At FWST-8 Battle Report
+- 在 10月份, CCP 公佈了 EVE 玩家們參與的 FWST-8 大戰獲得了 2項健力士世界紀錄。那帖子爲大家介紹了是次會戰的自2016年起淵源。
+- 而這帖子, 則會集中於 FWST-8 會戰本身, 爲玩家帶來更多這場會戰的數據, 更好地了解這一次世界紀錄的大戰。
+- 自 5/7/2020, Imperium 與 Legacy Coalition 的互不侵犯條約終止, 意味着戰爭隨時一觸即發。不久後, Legacy Coalition 與 Pandemic Horde, Pandemic Legion, Northern Coalition, Winter Coalition, 及其他一眾聯盟 (以下稱爲 "PAPI") 開始向西進軍, 對 Imperium 所屬的 Delve, Querious, Period Basis, Founta
+- 在往後的 3個月, PAPI 部隊佔了上風, 帝國面對數量如此龐大的敵對部隊, 他們無法對整個帝國區域進行有效的防禦, 只好先撤離週邊星系, 集中防禦力於中央星域 Delve 以抵禦敵人。
+- 但 Imperium 自 2016年起已在 Delve 設施起非常嚴密的防禦設施, 一眾 要塞, 工業站, 精煉廠等供艦隊集結, 跳橋網絡等加速了部隊在星域中的移動, 還有累積了大量的艦船, 裝備, 彈藥等。要在 Imperium 家門打仗是相當艱鉅的任務。
+- PAPI 爲了進軍推進 Delve, 他們需要超級旗艦艦隊提供支援。當時 PAPI 的超級旗艦艦隊都部署在 Imperium 星系的邊界。基於有限的跳躍距離, 超級旗艦艦隊只能僅僅摸到 Delve 星系, 而且該地區亦沒有安全港, 一旦 PAPI 部署到 Delve 行動就會馬上暴露於 Imperium 可觀數量的超級旗艦艦隊的陰影之下。於是 PAPI 的下一戰略目標就是在 Delve 中錨定一座 Keepstar 要塞以供作爲前哨基地。
+- 然而問題是在敵對星系因高星系防禦指數使得錨定 Keepstar 需要長達近一週的錨定時間。所以 PAPI 把目光指向 Delve 星域中 XPJ1-6 及 6-UCYU 星座。因爲這兩個星座是由血襲者所佔領, 所以當地並沒有 Imperium 的基礎設施。這代表錨定 Keepstar 只需要一般的 24小時錨定時間。
+- 當然, Imperium 也知道這套路, 也是 PAPI 最合符邏輯的戰略決定, 所以任何嘗試在血襲者星系中錨定 Keepstar 的行動必遭強烈抵抗。
+- PAPI 最終決定在 5/10 UTC 中午之後開始行動。目前選擇了 FWST-8。
+- Delve 星域一共有 97個星系。泰坦滿技能的情況下可以跳躍至或爲艦隊提供投送至最遠 6光年的距離。這代表了如果泰坦於 FWST-8 建立基地的話, 艦隊可以覆蓋 Delve 星域中共 69個, 71% 的 Delve 星系。Imperium 必需不惜一切代表來阻止。
+- 在 PAPI 嘗試錨定 Keepstar 時, Imperium 艦隊迅速作出反應, 以期望在 Keepstar 剛錨定的 15分鐘窗口內將其擊毀。經過 5小時的戰爭, Imperium 成功擊毀了 Keepstar。但就在 Keepstar 殘骸還火光熊熊之時, PAPI 馬上又在星系的另一個地方錨定第二座 Keepstar 並成功挺過了錨定階段。Keepstar 將會在 24小時後進入最終錨定階段, 這場戰爭亦成爲了影視遊戲中最大型的 PVP 戰鬥。
+- 在 6/10 16:34, 距離 Keepstar 進入最終錨定階段還剩 1小時。PAPI 的 Jackdaw (寒鴉級) Tech III 驅逐艦部隊在截擊艦及攔截艦的支援下開始進場部署。緊接着的還有 Muninn (繆寧級) 重型突擊艦部隊。
+- 在 16:52, 本地人數上升至超過 4,000 人。第一批戰列艦 Nightmare (噩夢級) 及 Eagle (銀鷹級) 重型突擊艦部隊進場, 部署在 Keepstar 的上方。在對 Keepstar 周圍控場後, PAPI 開始在 Keepstar 防禦陣型中央部署其超級旗艦艦隊。
+- 在 17:36, 本地人數已超過 6,000 人。Keepstar 進入最終錨定計時。Imperium 只有狹窄的 15分鐘攻擊窗口對 Keepstar 作出足夠的傷害以暫時其計時, 以使得最終能夠擊毀 Keepstar。
+- 基乎同一時間, Imperium 的 Rokh (鵬鯤級) 及 Raven (烏鴉級) 散佈地進場並包括了防禦艦隊, 在遠距離對 Keepstar 開火。Imperium 成功地在 17:43 暫時了計時, 計時還剩下 8分鐘。Imperium 無畏艦和航空母艦進場並開始對 Keepstar 開火。
+- 數千名玩家參與了在這一整夜的戰鬥, Imperium 的無畏艦一直傾瀉火力到 Keepstar 上希望將之擊毀, 而 PAPI 的泰坦則嘗試以末日武器將其清掃。在這些大型戰艦的交火中, 常規艦隊之間也發生了數十次小型衝突。個別護衛艦, 驅逐艦之間也發生了纏鬥, 亦有一些隱型轟炸艦在這混亂的戰場當中投放炸彈。
+- 在第二天的 05:27, 經過長達 11時44分鐘的戰鬥, Keepstar 的最後一點結構被擊毀, 爆發出刺眼的光芒。Imperium 贏得是次戰略行動的勝利。PAPI 需要另找機會再嘗試於 Delve 星系中錨定 Keepstar。這場勝利負出了極大的代價, 雙方都消耗了數量龐大的儲備。
+- 最終, PAPI 再經過 3次嘗試後, 成功在 Delve 星域中錨定了 Keepstar。Imperium 成功擊毀了在 319-3D 部署的 2座 Keepstar。而在第 5 次嘗試, PAPI 成功在 YZ9-F6 錨定了 Keepstar。
+- 如果你有看過之前有關健力士世界紀錄的報道, 你或已知道 FWST-8 大戰的高峰人數是在 18:16 達到的 6,557人。但星系人數其實在長達 12個小時的戰鬥中一直高企。
+- 多達 8,825 位角色參與了 FWST-8 的戰鬥, 當中包括了 114個聯盟, 1,022間公司。
+- 想當然 FWST-8 戰鬥所造成的損失也相當之高, 也是史上最多戰列艦損失的一場戰鬥, 多達 1,308艘。有趣的是, 當中有 1艘是 T2戰列艦。
+- 除此之外, 還有 1,268艘護衛艦, 836艘巡洋艦, 574艘戰列巡洋艦, 356艘無畏艦被擊毀, 還有 1,923具屍體。
+- 雖然這場戰鬥的損失巨大, 但這並不是 EVE 史上損失最大的一場戰鬥, 主要是因爲這次並沒有發生超級旗艦之間的戰鬥, 所以目前損失最大的戰鬥仍然是 2018年 9-4RP2 的戰鬥。
+- 當然有這麼多玩家參與, 伺服器的日子也不好過。雖然 FWST-8 星系已經用上了最好的增強節點。但很快就不堪重負, 隨著玩家開始大量進場, Ti-di 幾乎馬上生效, 在整個戰鬥過程中, 時間膨脹系數一直保持最大值：
+- 每一年都會有新戰爭, 新伊甸的紀錄只會不斷地被打破。更大的戰鬥和更多令人難以置信的故事, 不僅吸引了 EVE Online 玩家, 而且也吸引了整個遊戲界。FWST-8 之戰不僅在遊戲媒體中得到了廣泛報導, 甚至在主流媒體中也在報導。全球數以百萬計人都對這場戰鬥有很大的興趣, 但只有 EVE Online 玩家才可以喊出 “I was there”。
