@@ -1,0 +1,40 @@
+# EVE-LM 77M —— RTX 3050 Laptop 4GB 适配配置
+model:
+  vocab_size: 32000
+  d_model: 640
+  n_layers: 12
+  n_heads: 10
+  n_kv_heads: 5
+  d_ff: 1792
+  max_seq_len: 1024
+  rope_theta: 10000.0
+  norm_eps: 1.0e-5
+  tie_embeddings: true
+
+train:
+  # --- 显存旋钮：4GB 卡用 4/512；OOM 就降到 2 ---
+  seq_len: 512
+  micro_batch: 4
+  grad_accum: 32              # 有效 batch = 4*32*512 = 65536 tokens
+  grad_checkpoint: true
+
+  # --- 规模 ---
+  total_tokens: 500000000     # 7629 步
+  warmup_steps: 300
+  phase2_frac: 0.2            # 最后 20% 进入退火
+  domain_ratio_phase1: 0.05   # 前期领域占比（保中文能力）
+  domain_ratio_phase2: 0.35   # 退火期领域占比（学 EVE 腔调）
+
+  # --- 优化器 ---
+  lr: 6.0e-4
+  min_lr_ratio: 0.1
+  weight_decay: 0.1
+  beta1: 0.9
+  beta2: 0.95
+  grad_clip: 1.0
+  bf16: true
+
+  # --- 日志与保存 ---
+  log_every: 10
+  ckpt_every: 500
+  out_dir: ckpt
